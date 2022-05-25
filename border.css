@@ -1,0 +1,35 @@
+*{box-sizing: border-box;}
+
+
+
+.groove{width: 400px;
+        height: 200px;
+        border: 1px groove;}
+
+
+        
+    .ridge{width: 400px;
+        height: 200px;
+        margin-top: 20px;
+         
+        border:1px ridge;}
+
+
+
+             
+    .inset{width: 400px;
+        height: 200px;
+        margin-top: 20px;
+        border-width: 10px;
+         
+        border:inset red;}
+
+
+        .outset{width: 400px;
+                height: 200px;
+                margin-top: 20px;
+                border-width: 10px;
+                background-color: blue;
+                
+                 
+                border-style: outset;}
